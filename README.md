@@ -137,4 +137,6 @@ You can clone or download the project here:
 **Fatime Dadi Wardougou 25858**
 pl/sql
 
-**Semelane Temana Tlhohonolofatso 27293
+**Semelane Temana Tlhohonolofatso 27293**
+
+**Ineza Sonia 27852**
